@@ -1,3 +1,2 @@
-_site/LICENSE
-_site/Gemfile
-_site/Gemfile.lock
+_site/
+.jekyll-metadata
